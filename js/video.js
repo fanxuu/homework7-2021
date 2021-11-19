@@ -1,4 +1,4 @@
-var video =document.getElementById("player1");
+var video =document.querySelector("#player1");
 var vidVolumme = document.querySelector("#volume");
 
 window.addEventListener("load", function() {
